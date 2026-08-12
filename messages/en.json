@@ -1,0 +1,414 @@
+{
+  "nav": {
+    "home": "Home",
+    "collections": "Collections",
+    "shop": "Shop",
+    "about": "About",
+    "contact": "Contact",
+    "shopNow": "Shop Now",
+    "search": "Search"
+  },
+  "hero": {
+    "eyebrow": "New Arrivals for Summer 2024",
+    "heading": "A Home They'll Love as Much as You Do",
+    "body": "Discover thoughtfully designed home and living essentials for your pets — from cozy beds and stylish feeders to elegant furniture that fits seamlessly into your space. Because your pet deserves a beautiful home too.",
+    "cta": "Shop the Collection",
+    "scrollCta": "Explore Products",
+    "socialProof": "Loved by 12,000+ pet owners across the UK",
+    "badgeTitle": "Sustainably Made",
+    "badgeBody": "Natural materials, ethical sourcing"
+  },
+  "promo-banner": {
+    "heading": "Summer Sale — Up to 40% Off Sitewide",
+    "body": "Limited-time offer on our best-selling beds, bowls, and furniture. Use code PETLOVE40 at checkout. Ends Sunday.",
+    "cta": "Claim Your Discount",
+    "emoji": "🎉"
+  },
+  "trust": {
+    "shipping": "Free UK Shipping Over £50",
+    "returns": "60-Day Easy Returns",
+    "eco": "Sustainably Sourced Materials",
+    "safe": "Vet-Approved & Pet-Safe"
+  },
+  "collections": {
+    "eyebrow": "Shop by Collection",
+    "heading": "Curated for Every Corner of Your Home",
+    "viewAll": "View All Collections"
+  },
+  "featured-collections": [
+    {
+      "title": "The Cozy Nook",
+      "description": "Plush beds, cave dens, and heated mats crafted from natural linen and recycled fleece. Your pet's favourite spot, guaranteed.",
+      "cta": "Browse Beds",
+      "image": "/images/cozy-pet-bed-linen-natural.jpg"
+    },
+    {
+      "title": "The Modern Diner",
+      "description": "Ceramic bowls, elevated feeders, and bamboo placemats that look as good as they function. Mealtime, elevated.",
+      "cta": "Shop Feeders",
+      "image": "/images/elevated-ceramic-pet-feeder-wood.jpg"
+    },
+    {
+      "title": "The Play Yard",
+      "description": "Durable, design-forward toys and activity centres that keep your pet entertained without cluttering your living room.",
+      "cta": "Explore Toys",
+      "image": "/images/modern-pet-toys-living-room.jpg"
+    },
+    {
+      "title": "The Grooming Studio",
+      "description": "Gentle brushes, organic shampoos, and spa-grade accessories for pets who deserve a little pampering.",
+      "cta": "View Grooming",
+      "image": "/images/pet-grooming-spa-accessories.jpg"
+    }
+  ],
+  "shop": {
+    "eyebrow": "Best Sellers",
+    "heading": "Products Your Pet Will Actually Use",
+    "body": "Every item in our range is tested by real pets and approved by their owners. No gimmicks, no filler — just beautifully made essentials.",
+    "addToCart": "Add to Cart",
+    "viewAll": "View All Products"
+  },
+  "product-grid": [
+    {
+      "id": "p1",
+      "name": "Linen Cloud Bed (Large)",
+      "price": "£89.00",
+      "originalPrice": "£119.00",
+      "rating": 4.8,
+      "reviewCount": 312,
+      "discount": 25,
+      "description": "Handwoven linen cover, memory foam insert, machine-washable. Available in Oat, Sage and Terracotta.",
+      "image": "/images/linen-cloud-pet-bed-large.jpg",
+      "category": "Beds & Bedding"
+    },
+    {
+      "id": "p2",
+      "name": "Elevated Ceramic Feeder Set",
+      "price": "£54.00",
+      "originalPrice": null,
+      "rating": 4.7,
+      "reviewCount": 198,
+      "discount": null,
+      "description": "Hand-glazed ceramic bowls on a solid acacia wood stand. Dishwasher safe. Fits cats and small dogs.",
+      "image": "/images/elevated-ceramic-pet-feeder-set.jpg",
+      "category": "Bowls & Feeders"
+    },
+    {
+      "id": "p3",
+      "name": "Rattan Hideaway Cat House",
+      "price": "£129.00",
+      "originalPrice": "£159.00",
+      "rating": 4.9,
+      "reviewCount": 87,
+      "discount": 19,
+      "description": "Natural rattan frame with a plush sherpa interior. Doubles as a stylish side table.",
+      "image": "/images/rattan-cat-house-hideaway.jpg",
+      "category": "Furniture & Shelves"
+    },
+    {
+      "id": "p4",
+      "name": "Organic Catnip Crinkle Fish",
+      "price": "£18.00",
+      "originalPrice": null,
+      "rating": 4.6,
+      "reviewCount": 540,
+      "discount": null,
+      "description": "100% organic catnip fill, crinkle texture, non-toxic dyes. Cats go absolutely wild for it.",
+      "image": "/images/organic-catnip-crinkle-fish-toy.jpg",
+      "category": "Toys & Play"
+    },
+    {
+      "id": "p5",
+      "name": "Merino Wool Dog Blanket",
+      "price": "£46.00",
+      "originalPrice": null,
+      "rating": 4.8,
+      "reviewCount": 223,
+      "discount": null,
+      "description": "Pure New Zealand merino, naturally temperature-regulating. Soft enough for the sofa, tough enough for the crate.",
+      "image": "/images/merino-wool-dog-blanket.jpg",
+      "category": "Blankets & Throws"
+    },
+    {
+      "id": "p6",
+      "name": "Bamboo Slow Feeder Bowl",
+      "price": "£32.00",
+      "originalPrice": "£42.00",
+      "rating": 4.5,
+      "reviewCount": 176,
+      "discount": 24,
+      "description": "Eco-friendly bamboo composite, anti-slip base, vet-recommended maze pattern slows eating by up to 10x.",
+      "image": "/images/bamboo-slow-feeder-bowl-dog.jpg",
+      "category": "Bowls & Feeders"
+    },
+    {
+      "id": "p7",
+      "name": "Canvas and Rope Tug Toy",
+      "price": "£22.00",
+      "originalPrice": null,
+      "rating": 4.7,
+      "reviewCount": 389,
+      "discount": null,
+      "description": "Heavy-duty braided cotton rope with waxed canvas grip. Safe for aggressive chewers, floats in water.",
+      "image": "/images/canvas-rope-dog-tug-toy.jpg",
+      "category": "Toys & Play"
+    },
+    {
+      "id": "p8",
+      "name": "Walnut Wall-Mount Cat Shelf Set",
+      "price": "£98.00",
+      "originalPrice": null,
+      "rating": 4.9,
+      "reviewCount": 64,
+      "discount": null,
+      "description": "Set of 3 solid walnut shelves with sisal-wrapped perch pads. Easy-install hardware included.",
+      "image": "/images/walnut-cat-wall-shelf-set.jpg",
+      "category": "Furniture & Shelves"
+    }
+  ],
+  "category-filter": [
+    "All Products",
+    "Beds & Bedding",
+    "Bowls & Feeders",
+    "Furniture & Shelves",
+    "Toys & Play",
+    "Grooming & Spa",
+    "Blankets & Throws",
+    "Outdoor & Travel"
+  ],
+  "testimonials": {
+    "eyebrow": "Happy Pets, Happy Owners",
+    "heading": "What Our Community Is Saying"
+  },
+  "testimonials-list": [
+    {
+      "name": "Mara Ellison",
+      "role": "Interior Designer and Cat Mum, London",
+      "text": "I've tried so many pet beds that looked terrible in my flat. The Linen Cloud Bed from Pet360 is genuinely beautiful — my cat loves it and it actually complements my décor. First time I've ever felt good about a pet purchase.",
+      "rating": 5,
+      "avatar": "/images/testimonial-mara-ellison.jpg"
+    },
+    {
+      "name": "James Okafor",
+      "role": "Dog Dad of Two, Manchester",
+      "text": "The Elevated Ceramic Feeder Set is worth every penny. My dogs eat slower, the bowls are easy to clean, and it doesn't look like a pet shop exploded in my kitchen. Ordered a second set for my parents.",
+      "rating": 5,
+      "avatar": "/images/testimonial-james-okafor.jpg"
+    },
+    {
+      "name": "Sofia Reyes",
+      "role": "Veterinary Nurse, Edinburgh",
+      "text": "As a vet nurse I'm picky about materials. Pet360's Bamboo Slow Feeder Bowl is one of the few I'd actually recommend — non-toxic, well-made, and it genuinely helps dogs with bloat risk. My patients' owners love it.",
+      "rating": 5,
+      "avatar": "/images/testimonial-sofia-reyes.jpg"
+    },
+    {
+      "name": "Tom and Priya Whitfield",
+      "role": "First-Time Cat Owners, Bristol",
+      "text": "We bought the Rattan Hideaway Cat House expecting our cat to ignore it. She moved in within 20 minutes and hasn't left. It looks incredible in our living room. Pet360 is the only place we shop for her now.",
+      "rating": 5,
+      "avatar": "/images/testimonial-tom-priya-whitfield.jpg"
+    }
+  ],
+  "brand": {
+    "eyebrow": "Our Story",
+    "heading": "Designed for Pets. Made for Your Home.",
+    "body1": "Pet360 was founded in 2019 by Emma Clarke, a product designer and lifelong dog owner who was tired of choosing between products that were good for her dog and products that looked good in her home. She believed you shouldn't have to choose.",
+    "body2": "Every product in our range is designed in-house, tested by real pets, and made from materials we'd be happy to have in our own homes. We work with small-batch manufacturers across the UK and Europe who share our commitment to quality and sustainability.",
+    "cta": "Read Our Full Story",
+    "statValue": "12,000+",
+    "statLabel": "Happy pets and owners across the UK"
+  },
+  "newsletter": {
+    "eyebrow": "Join the Community",
+    "heading": "Get 10% Off Your First Order",
+    "body": "Join the Pet360 community and be the first to hear about new arrivals, exclusive offers, and expert tips for creating a beautiful home for your pet. No spam, ever — just good stuff.",
+    "cta": "Subscribe and Save 10%",
+    "placeholder": "Enter your email address",
+    "successMessage": "Welcome to Pet360! Check your inbox for your 10% discount code.",
+    "disclaimer": "No spam, ever. Unsubscribe anytime.",
+    "eyebrow2": "Stay in the Loop"
+  },
+  "footer": {
+    "brandBody": "Thoughtfully designed home and living products for pets and the people who love them. Proudly independent since 2019.",
+    "shopTitle": "Shop",
+    "allProducts": "All Products",
+    "newArrivals": "New Arrivals",
+    "bestsellers": "Bestsellers",
+    "sale": "Sale",
+    "giftCards": "Gift Cards",
+    "collectionsTitle": "Collections",
+    "bedsAndBedding": "Beds and Bedding",
+    "bowlsAndFeeders": "Bowls and Feeders",
+    "furnitureAndShelves": "Furniture and Shelves",
+    "toysAndPlay": "Toys and Play",
+    "groomingAndSpa": "Grooming and Spa",
+    "helpTitle": "Help",
+    "faqs": "FAQs",
+    "shippingReturns": "Shipping and Returns",
+    "sizeGuide": "Size Guide",
+    "trackOrder": "Track My Order",
+    "contactUs": "Contact Us",
+    "aboutTitle": "About",
+    "ourStory": "Our Story",
+    "sustainability": "Sustainability",
+    "press": "Press",
+    "careers": "Careers",
+    "affiliate": "Affiliate Programme",
+    "copyright": "© 2024 Pet360 Ltd. All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms and Conditions",
+    "cookieSettings": "Cookie Settings",
+    "madeWith": "Made with",
+    "forPets": "for pets everywhere"
+  },
+  "collectionsPage": {
+    "eyebrow": "All Collections",
+    "heading": "Shop by Collection",
+    "body": "Each collection is curated around a specific part of your pet's life at home — from where they sleep to how they play. Find the perfect fit for your space and your pet.",
+    "seasonalHeading": "Seasonal Picks",
+    "ctaHeading": "Not Sure Where to Start?",
+    "ctaBody": "Browse our full product range and filter by pet type, material, or price. Free UK delivery on orders over £50.",
+    "ctaButton": "Shop All Products"
+  },
+  "collections-extras": [
+    {
+      "title": "Summer Outdoor Edit",
+      "description": "Portable beds, travel bowls, and cooling mats for adventures in the sun.",
+      "image": "/images/pet-outdoor-summer-edit.jpg"
+    },
+    {
+      "title": "New Arrivals",
+      "description": "Fresh designs added weekly — be the first to discover what's new.",
+      "image": "/images/pet360-new-arrivals.jpg"
+    },
+    {
+      "title": "Gift Ideas",
+      "description": "Beautifully packaged sets for the pet lover in your life.",
+      "image": "/images/pet360-gift-ideas.jpg"
+    }
+  ],
+  "shopPage": {
+    "eyebrow": "The Full Range",
+    "heading": "Everything Your Pet Needs",
+    "body": "Browse our complete collection of home and living essentials. Filter by category, search by name, or just explore.",
+    "searchPlaceholder": "Search products...",
+    "sortFeatured": "Featured",
+    "sortPriceAsc": "Price: Low to High",
+    "sortPriceDesc": "Price: High to Low",
+    "sortRating": "Highest Rated",
+    "resultsLabel": "products found",
+    "noResults": "No products match your search. Try a different category or keyword."
+  },
+  "about": {
+    "eyebrow": "Our Story",
+    "heading": "Built by Pet Lovers, for Pet Lovers",
+    "heroBody": "We started Pet360 because we believed that loving your pet and loving your home shouldn't be a compromise. Five years on, we're proud to have helped over 12,000 pet owners create spaces they're genuinely proud of.",
+    "storyEyebrow": "How It Started",
+    "storyHeading": "From a Spare Room to a Beloved Brand",
+    "storyBody1": "Pet360 was founded in 2019 by Emma Clarke, a product designer and lifelong dog owner who was tired of choosing between products that were good for her dog and products that looked good in her home. She started designing her own in a spare room in East London.",
+    "storyBody2": "What began as a small Etsy shop quickly grew into a full brand. Today, Pet360 works with artisan manufacturers across the UK and Europe, and every product is still tested by real pets before it reaches our shelves.",
+    "valuesEyebrow": "What We Stand For",
+    "valuesHeading": "Our Four Commitments",
+    "teamEyebrow": "The Team",
+    "teamHeading": "The People Behind Pet360",
+    "stats": [
+      {
+        "value": "12,000+",
+        "label": "Happy customers"
+      },
+      {
+        "value": "4.8",
+        "label": "Average product rating"
+      },
+      {
+        "value": "60+",
+        "label": "Products in our range"
+      },
+      {
+        "value": "2019",
+        "label": "Founded in London"
+      }
+    ],
+    "values": [
+      {
+        "title": "Sustainability First",
+        "body": "We use natural, recycled, and responsibly sourced materials across our entire range. No virgin plastics, no greenwashing."
+      },
+      {
+        "title": "Designed with Love",
+        "body": "Every product is designed in-house by our team of designers and tested by real pets before it goes on sale."
+      },
+      {
+        "title": "Quality Over Quantity",
+        "body": "We'd rather make 60 products we're proud of than 600 we're not. Every item earns its place in our range."
+      },
+      {
+        "title": "Community Driven",
+        "body": "Our customers shape what we make. We listen to feedback, run beta tests, and co-design new products with our community."
+      }
+    ],
+    "team": [
+      {
+        "name": "Emma Clarke",
+        "role": "Founder and Creative Director",
+        "bio": "Product designer, dog mum, and the reason Pet360 exists. Emma leads design and brand strategy from our East London studio.",
+        "image": "/images/team-emma-clarke.jpg"
+      },
+      {
+        "name": "Ravi Patel",
+        "role": "Head of Product",
+        "bio": "Ravi oversees our manufacturing partnerships and quality control. He's also the proud owner of two very opinionated cats.",
+        "image": "/images/team-ravi-patel.jpg"
+      },
+      {
+        "name": "Jess Thornton",
+        "role": "Head of Community",
+        "bio": "Jess runs our customer experience and community programmes. She's the reason our reviews are so good — and so honest.",
+        "image": "/images/team-jess-thornton.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Get in Touch",
+    "heading": "We'd Love to Hear From You",
+    "body": "Whether you have a question about a product, need help with an order, or just want to share a photo of your pet — we're here for it.",
+    "infoHeading": "Contact Information",
+    "formHeading": "Send Us a Message",
+    "nameLabel": "Your Name",
+    "namePlaceholder": "Emma Clarke",
+    "emailLabel": "Email Address",
+    "emailPlaceholder": "emma@example.com",
+    "subjectLabel": "Subject (optional)",
+    "subjectPlaceholder": "Question about my order",
+    "messageLabel": "Your Message",
+    "messagePlaceholder": "Tell us how we can help...",
+    "submitButton": "Send Message",
+    "successTitle": "Message Sent!",
+    "successBody": "Thanks for reaching out. Our team will get back to you within one business day.",
+    "teamTitle": "Our Customer Care Team",
+    "teamBody": "Real humans, not bots. We aim to reply within 24 hours on weekdays.",
+    "info": [
+      {
+        "label": "Email",
+        "value": "hello@pet360.co.uk",
+        "detail": "We reply within one business day"
+      },
+      {
+        "label": "Phone",
+        "value": "+44 20 7946 0958",
+        "detail": "Mon to Fri, 9am to 5pm GMT"
+      },
+      {
+        "label": "Address",
+        "value": "12 Artisan Quarter, Shoreditch",
+        "detail": "London, E1 6RF, United Kingdom"
+      },
+      {
+        "label": "Hours",
+        "value": "Monday to Friday, 9am to 5pm",
+        "detail": "Closed on UK bank holidays"
+      }
+    ]
+  }
+}
